@@ -27,6 +27,8 @@ npm run start
 ## API文档
 
 ```
+npm install --save apidoc
+
 npm run docs
 ```
 

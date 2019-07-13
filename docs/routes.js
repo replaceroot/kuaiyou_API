@@ -356,8 +356,8 @@
 * @apiParam {Float} score.all        总体评分
 * @apiParam {Array}  pics             图片
 *
-* @apiParam {Number} hotel            酒店id / 
-* @apiParam {Number} post             评论id
+* @apiParam {Number} hotel            酒店id 
+* @apiParam {Number} post             文章id
 *
 * @apiParam {Number} follow           回复id
 * 
@@ -434,7 +434,7 @@
 * @apiName getAirsCity
 * @apiGroup JiPiao
 *
-* @apiParam {String} departCity       出发城市
+* @apiParam {String} name       出发城市
 *
 * @apiSuccessExample 成功响应：
 {
